@@ -1,0 +1,44 @@
+.navbar {
+    background: #41aaa8;
+    min-height: 50px;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 3px 6px #5d5d5d, 0 3px 6px #3a3a3a;
+    color: white;
+    font-size: 35px;
+    font-family: 'Manjari', sans-serif;
+    z-index: 99;
+    white-space: nowrap;
+}
+
+
+.navbar h1 {
+    font-size: 45px;
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+}
+  
+  .navbar li {
+    display: inline-block;
+    padding: 26px 0px;
+    width: 33.3%;
+    text-align: center;
+  }
+  
+  @media (max-width: 420px) {
+    .navbar li:first-child {
+      width: 25%;
+    }
+  
+    .navbar li:nth-child(2) {
+      width: 35%;
+    }
+  
+    .navbar li:last-child {
+      width: 40%;
+    }
+  }
+  

@@ -1,0 +1,76 @@
+[
+    {
+        "id": 0,
+        "title": "World's Scariest Airport Runways (PHOTOS)",
+        "picture": "/assets/images/airport.jpg",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "title": "The Germiest Public Places",
+        "picture": "/assets/images/germs.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "title": "Hilarious Beach Photos They Wish Were Never Taken",
+        "picture": "/assets/images/beachPhotos.webp",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "title": "2 Accounts That Pay 10 Times What Your Bank Pays",
+        "picture": "/assets/images/pay.webp",
+        "clicked": false
+    },
+
+    {
+        "id": 4,
+        "title": "Kidney Cancer: 10 Common Symptoms to Know",
+        "picture": "/assets/images/kidneyCancer.webp",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "title": "30 Forbidden Places That Are Off Limits to Tourists",
+        "picture": "/assets/images/forbidden.webp",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "title": "Cold or Flu? 9 Ways to Tell the Difference",
+        "picture": "/assets/images/coldFlu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "title": "How Winter Fashion Has Changed",
+        "picture": "/assets/images/winterFashion.png",
+        "clicked": false
+    },
+
+    {
+        "id": 8,
+        "title": "Eerie Vintage Photos of People Battling the Flu",
+        "picture": "/assets/images/vintageFlu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "title": "Wife's Dark Secret Exposed Years After Her Passing",
+        "picture": "/assets/images/wifeSecret.webp",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "title": "25 Worst US Cities for the Flu",
+        "picture": "/assets/images/worstCitiesFlu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "title": "25 Missing People That Were Found Alive",
+        "picture": "/assets/images/missingFound.webp",
+        "clicked": false
+    }
+]

@@ -1,0 +1,24 @@
+.card {
+    height: 190px;
+    max-width: 190px;
+    margin: 4px 25px;
+    border: 5px solid rgb(241, 241, 241);
+    border-radius: 3px;
+    box-shadow: 0 3px 6px #5d5d5d, 0 3px 6px #3a3a3a;
+    cursor: pointer;
+    float: right;
+    font-size: 16px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    border: 5px solid #ec9b3b;
+}
+
+.card-body {
+    padding: 3px;
+}
+
+img {
+    max-height: 60%;
+}
